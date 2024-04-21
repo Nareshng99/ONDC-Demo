@@ -123,40 +123,56 @@ Network participants are required to perform end-to-end testing with ONDC refere
 
 #### Staging Environment 🎭
 
-- [**ONDC Reference Seller App**](https://ref-app-seller-staging-v2.ondc.org/sign-up) 
-  - [![Github](https://github.com/ONDC-Official/seller-app-sdk/tree/master)](#)
+- [**ONDC Reference Seller App**](https://ref-app-seller-staging-v2.ondc.org/sign-up)
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/seller-app-sdk/tree/master)
   
 - [**ONDC Reference Buyer App**](https://ref-app-buyer-staging-v2.ondc.org/login)
-  - [![Github](https://github.com/ONDC-Official/ondc-sdk)](#)
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ondc-sdk)](#)
 
 - [**ONDC Reference Logistics Seller App**](https://ref-logistics-app-stage.ondc.org/) 
-  - [![Github](https://github.com/ONDC-Official/ref-logistics-app-sdk/tree/main)](#)
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ref-logistics-app-sdk/tree/main)](#)
 
 #### Pre-Production Environment 🌐
 
-- **ONDC Reference Seller App** 
-  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+- [**ONDC Reference Seller App**](https://seller-app-preprod-v2.ondc.org/sign-up)
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/seller-app-sdk/tree/master)
   
-- **ONDC Reference Buyer App** 
-  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+- [**ONDC Reference Buyer App**](https://buyer-app-preprod-v2.ondc.org/login) 
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ondc-sdk)
 
-- **ONDC Reference Logistics Seller App** 
-  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+- [**ONDC Reference Logistics Seller App**](https://ref-logistics-app-preprod.ondc.org/) 
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ref-logistics-app-sdk/tree/main)
+
 
 ### Utilities ⚙️
 
+Empower your integration with these essential utility tools designed to support ONDC Network Participants in various tasks:
+
 - **Signing and Verification**: 
-  This tool supports ONDC Network Participants in creating their own cryptographic libraries, which are crucial for secure engagement with the ONDC Network. It includes key generation, signing, verification, encryption, and decryption tasks.
-  - Java
-  - [More info](#)
+  Develop your own secure cryptographic libraries with tools for key generation, signing, verification, encryption, and decryption.
+  - 🟦 [Java](https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/ondc-crypto-utility-master)
+  - 🟩 [NodeJS](https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/ondc-crypto-sdk-nodejs)
+  - 🐍 [Python](https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/signing_and_verification)
+  - 💻 [GoLang](https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/signing_and_verification/golang)
+
+- **Subscription process**: 
+  Streamline your onboarding with the ONDC Network using our subscription process tools.
+
+- **Retail/IGM Log Verification**: 
+  Ensure the accuracy of your transaction logs with this verification tool, a necessity before submission for technical clearance.
+
+- **B2B/Logistics Log Verification**: 
+  Verify your B2B and Logistics transactions logs with our dedicated tool to maintain impeccable records.
+
+- **vlookup**: 
+  Perform registry lookups and retrieve essential details related to Network Participants with ease.
+
+- **RSF Mock Server**: 
+  Test network integration for Reconciliation and Settlement Framework (RSF) with our specialized mock server.
 
 
-
-## 🛠️ Utilities
-
-Enhance your integration with our array of utility tools designed for cryptographic operations, subscription management, and log verification.
 
 ## 🆘 Support
 
-For queries or additional support, visit our [Help Center](#) or reach out to our support team.
+For queries or additional support, visit our [Help Center](https://portal.ondc.org/login) or reach out to our support team.
 
