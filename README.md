@@ -28,7 +28,7 @@ The **Open Network for Digital Commerce (ONDC)** is an innovative project launch
 
 ## 🚀 Getting Started
 
-The first step is to create an account on the [ONDC Web Portal](https://portal.ondc.org/), a comprehensive self-service platform that facilitates the interaction between ONDC and its network participants throughout their integration lifecycle.
+The first step is to create an account on the [**ONDC Web Portal**](https://portal.ondc.org/), a comprehensive self-service platform that facilitates the interaction between ONDC and its network participants throughout their integration lifecycle.
 
 ## 🌟 Quick Start Guide
 
