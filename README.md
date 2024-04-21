@@ -96,7 +96,6 @@ Enhance the travel experience with easy access to services like ride hailing and
   - For On-demand Ride hailing, select version: [`draft-TRV10-2.0.0`](#)
   - For Unreserved Ticket Booking (metro and intracity bus), select version: [`draft-TRV11-2.0.0`](#)
 
-- [Gift Card](https://docs.google.com/document/d/1iTCQd_jI3mRqgSiaeZBvxWL-G_wkE__xxW-Wua8arVE/edit)
 
 ### Services 🛠️
 Empower individuals with a vast array of services at their fingertips, from home improvements to professional consultations.
@@ -127,10 +126,10 @@ Network participants are required to perform end-to-end testing with ONDC refere
   - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/seller-app-sdk/tree/master)
   
 - [**ONDC Reference Buyer App**](https://ref-app-buyer-staging-v2.ondc.org/login)
-  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ondc-sdk)](#)
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ondc-sdk)]
 
 - [**ONDC Reference Logistics Seller App**](https://ref-logistics-app-stage.ondc.org/) 
-  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ref-logistics-app-sdk/tree/main)](#)
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ref-logistics-app-sdk/tree/main)]
 
 #### Pre-Production Environment 🌐
 
