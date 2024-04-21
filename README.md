@@ -1,15 +1,18 @@
-![ONDC Logo](https://ondc.org/assets/theme/images/ecom/how-will-change-snap.svg?v=f86d4cd703)
+<p align="center">
+  <img src="https://ondc.org/assets/theme/images/ecom/how-will-change-snap.svg?v=f86d4cd703" alt="ONDC Logo"/>
+</p>
 
 # Open Network for Digital Commerce (ONDC)
 
-ONDC is an ambitious initiative aimed at democratizing digital commerce by creating a decentralized network of buyer apps and seller apps through an interoperable protocol specification.
+**ONDC** aims to democratize digital commerce by creating a decentralized network that connects buyer apps and seller apps through an interoperable protocol specification. This initiative supports a more inclusive digital commerce ecosystem.
 
 ## Overview
 
-This comprehensive guide is designed to walk you through the process of integrating your digital commerce platform with ONDC. By following these steps, you'll enable seamless interoperability with the decentralized network, enhancing your platform's capabilities.
+This guide is tailored for developers looking to integrate their digital commerce platforms with ONDC, facilitating seamless interoperability within a decentralized network. By integrating with ONDC, your platform can leverage a wider network, enabling more robust digital commerce transactions.
 
 ## 📚 Table of Contents
 
+- [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Quick Start Guide](#quick-start-guide)
 - [The Protocol](#the-protocol)
@@ -19,56 +22,52 @@ This comprehensive guide is designed to walk you through the process of integrat
 - [Reference Applications](#reference-applications)
 - [Utilities](#utilities)
 
+## 🌟 Introduction
+
+The **Open Network for Digital Commerce (ONDC)** is an innovative project launched to promote open networks developed on open-sourced methodology, using open specifications and open network protocols, independent of any specific platform.
+
 ## 🚀 Getting Started
 
-The ONDC Web Portal serves as a self-service platform that streamlines interaction between ONDC and its network participants. Creating an account on the ONDC Web Portal is necessary for starting your integration.
+The first step is to create an account on the ONDC Web Portal, a comprehensive self-service platform that facilitates the interaction between ONDC and its network participants throughout their integration lifecycle.
 
 ## 🌟 Quick Start Guide
 
-The ONDC Integration Guide is your roadmap through the integration journey, illuminating key resources to guide you.
+Explore the ONDC Integration Guide, a detailed roadmap highlighting key resources and steps required for a smooth integration process.
 
 ## 🔗 The Protocol
 
-Beckn protocol allows local businesses across any industry to engage through beckn-enabled applications. ONDC extends this base layer with specifications customized for seamless transactions.
+ONDC utilizes the **Beckn Protocol**—an open standard that enables local businesses across various industries to connect with beckn-enabled applications for seamless commercial transactions.
 
 ## 📜 Subscription Process
 
-### Staging Registry
-- Obtain whitelisting for the subscriber ID.
-- Initiate by calling the `/subscribe` API. [Documentation Here](#)
+Integration with ONDC involves several key stages, each requiring specific actions:
 
-### Pre-Production Registry
-- Demo your application and get approval to proceed.
-
-### Production Registry
-- Complete functional testing and comply with the final checklist to go live.
+- **Staging Registry:** Begin by obtaining a subscriber ID and initiating the subscription process via the `/subscribe` API.
+- **Pre-Production Registry:** After a successful demo, move to the pre-production stage as per the guidelines.
+- **Production Registry:** Upon passing functional testing, transition to the production environment.
 
 ## 🖋️ Signing and Verification
 
-All communication must be authenticated and verified, ensuring secure transactions. Learn how to implement this in our [Detailed Guide](#).
+Security is paramount in digital transactions. Learn how to securely sign and verify requests and callbacks through our comprehensive digital signing process.
 
 ## 🌍 Enabled Domains
 
-- **Retail** - Handling transactions from groceries to electronics. [Developer Guide](#)
-- **Logistics** - Streamlining on-network logistics services. [Logistics Guide](#)
-- **Financial Services** - Facilitating access to loans, insurance, and investments. [Financial Services Guide](#)
-- **Travel & Tourism** - Offering services from ride-hailing to unreserved ticket booking. [Mobility Specifications](#)
+ONDC supports various domains, enabling a broad spectrum of transactions:
+
+- **Retail** - From groceries to electronics. [Retail Developer Guide](#)
+- **Logistics** - Efficient network logistics services. [Logistics Developer Guide](#)
+- **Financial Services** - Simplified access to financial products. [Financial Services Guide](#)
+- **Travel & Tourism** - Comprehensive travel-related services. [Travel Guide](#)
 
 ## 📲 Reference Applications
 
-Complete your testing with ONDC reference applications available in both Staging and Pre-Production environments.
-
-- [Seller App](#)
-- [Buyer App](#)
-- [Logistics App](#)
+Validate your implementation with ONDC reference applications, ensuring compliance and compatibility across environments.
 
 ## 🛠️ Utilities
 
-- **Signing and Verification Tools** 🛡️ - Support for cryptographic functions. Available in Java, NodeJS, Python, GoLang.
-- **Subscription Tools** 🔄 - Facilitate your registration process with our API implementations.
-- **Log Verification** ✔️ - Ensure the accuracy of your transaction logs for technical clearance.
+Enhance your integration with our array of utility tools designed for cryptographic operations, subscription management, and log verification.
 
 ## 🆘 Support
 
-For additional support, please reach out through our [Help Center](#).
+For queries or additional support, visit our [Help Center](#) or reach out to our support team.
 
