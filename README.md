@@ -87,7 +87,7 @@ Access a wide range of financial solutions effortlessly. This domain includes ev
   - For Loans, select version: [`draft-loan`](#)
   - For Insurance, select version: [`draft-insurance`](#)
   - For Investments, select version: [`draft-mutual-funds`](#)
-- 🎁 Gift Card
+- 🎁 [**Gift Card**](https://docs.google.com/document/d/1iTCQd_jI3mRqgSiaeZBvxWL-G_wkE__xxW-Wua8arVE/edit)
 
 ### Travel & Tourism ✈️
 Enhance the travel experience with easy access to services like ride hailing and ticket booking for various modes of transport.
