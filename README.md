@@ -126,10 +126,10 @@ Network participants are required to perform end-to-end testing with ONDC refere
   - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/seller-app-sdk/tree/master)
   
 - [**ONDC Reference Buyer App**](https://ref-app-buyer-staging-v2.ondc.org/login)
-  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ondc-sdk)]
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ondc-sdk)
 
 - [**ONDC Reference Logistics Seller App**](https://ref-logistics-app-stage.ondc.org/) 
-  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ref-logistics-app-sdk/tree/main)]
+  - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ONDC-Official/ref-logistics-app-sdk/tree/main)
 
 #### Pre-Production Environment 🌐
 
